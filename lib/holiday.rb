@@ -15,6 +15,7 @@ holiday_hash.each do |season, holiday|
     end
   end
 end
+end
 
 
 def add_supply_to_memorial_day(holiday_hash, supply)
