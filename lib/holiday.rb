@@ -12,6 +12,8 @@ holiday_hash.each do |season, holiday|
   if season == "winter"
     holiday.each do |attribute, data|
       << "supply"
+    end
+  end
 end
 
 
